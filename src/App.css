@@ -1,2 +1,14 @@
 .App {
+  background: #f1f1f3;
+}
+
+.main-wrapper {
+  margin-top: 80px;
+  padding: 0px 60px;
+}
+
+.main-heading {
+  margin: 0px;
+  padding: 24px 0px;
+  color: #898989;
 }
