@@ -26,6 +26,7 @@ const useStyles = makeStyles({
       color: "#b1b1b1",
       display: "block",
       borderBottom: "1px solid #ddd",
+      paddingRight: 20,
     },
     "& tbody": {
       display: "block",

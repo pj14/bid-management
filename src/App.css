@@ -21,4 +21,19 @@
 
 .min-bid-label {
   margin-right: 16px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.table-filters {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.sort-wrap {
+  margin-right: 32px;
+  display: flex;
+  align-items: center;
 }
