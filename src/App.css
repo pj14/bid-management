@@ -12,3 +12,13 @@
   padding: 24px 0px;
   color: #898989;
 }
+
+.toggle-wrap {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.min-bid-label {
+  margin-right: 16px;
+}

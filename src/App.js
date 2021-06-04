@@ -4,6 +4,7 @@ import { ThemeProvider } from "@material-ui/core/styles";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import CustomerTable from "./pages/CustomerTable";
 import CustomerPage from "./pages/CustomerPage";
+import CustomerBidPage from "./pages/CustomerBidPage";
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <Router>
         <Switch>
           <Route path="/bidInfo">
-            <CustomerTable />
+            <CustomerBidPage />
           </Route>
           <Route path="/">
             <CustomerPage />
