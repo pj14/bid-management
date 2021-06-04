@@ -30,7 +30,7 @@ const useStyles = makeStyles({
     },
     "& tbody": {
       display: "block",
-      maxHeight: "450px",
+      maxHeight: "400px",
       overflowY: "auto",
     },
     "& tr": {
